@@ -1,2 +1,2 @@
 # Primeiro-reprositorio
-código teste
+Testando o GitHbu,aprendendo a mexer no repósitorio
